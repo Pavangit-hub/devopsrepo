@@ -1,4 +1,1 @@
-!/bin/baash
-
-
-echo "build successfully by using webhook"
+sudo touch file {1..4}
