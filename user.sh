@@ -1,3 +1,3 @@
-#!/bin/bash
+sudo touch file {1..4}
 
-echo "Test job Page successfully"
+Hello world
