@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git url: 'https://github.com/Pavangit-hub/https://github.com/Pavangit-hub/devopsrepo.git.git', credentialsId: 'None'
+        git url: 'https://github.com/Pavangit-hub/https://github.com/Pavangit-hub/devopsrepo.git.git', credentialsId: 'github-token'
       }
     }
 
